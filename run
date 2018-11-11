@@ -1,0 +1,2 @@
+#!/bin/sh
+`python -m site --user-base`/bin/pipenv run python ./auto_scraper.py
